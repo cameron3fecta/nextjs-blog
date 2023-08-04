@@ -1,0 +1,27 @@
+.post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .postTitle {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .author {
+    color: #888;
+    margin-bottom: 2rem;
+  }
+  
+  .content {
+    line-height: 1.6;
+  }
+  
+  .share {
+    margin-top: 2rem;
+    border-top: 1px solid #ddd;
+    padding-top: 1rem;
+    font-size: 0.9rem;
+  }
+  
